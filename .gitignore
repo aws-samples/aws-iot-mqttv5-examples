@@ -1,0 +1,4 @@
+certificates/*
+!certificates/.placeholder
+
+.DS_Store
